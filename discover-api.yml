@@ -6,7 +6,7 @@ env:
   API_HOST: <ap-south-a.apiconnect.automation.ibm.com>
   PLATFORM_API_PREFIX: <1eebd945-5441-4fff-ab9f-fab7e24f8cda>
   PROVIDER_ORG: <api-connect-8x>
-  API_FILES: <file/files name>
+  API_FILES: <discover-api.yml>
 
 jobs:
   check_changes_job:
